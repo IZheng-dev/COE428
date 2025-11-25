@@ -1,6 +1,5 @@
 /*
  * Name: Isaac Zheng
- * Student ID: 501263130
  * Professor: Dr. Yasaman Ahmadiadli
  * TA: Majd Alber
  * Description: Acts as main function to read stdin and implements the heap tree
@@ -73,3 +72,4 @@ int main(int argc, char * argv[])
   exit(0);
   
 }
+
