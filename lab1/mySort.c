@@ -1,6 +1,5 @@
 /*
  * Name: Isaac Zheng
- * Student ID: 501263130
  * Professor: Dr. Yasaman Ahmadiadli
  * TA: Majd Alber
  * Description: mySort code using insertion sort
@@ -22,3 +21,4 @@ void mySort(int d[], unsigned int n)
     }
 	
 }
+
