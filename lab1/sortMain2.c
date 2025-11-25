@@ -1,6 +1,5 @@
 /*
  * Name: Isaac Zheng
- * Student ID: 501263130
  * Professor: Dr. Yasaman Ahmadiadli
  * TA: Majd Alber
  * Description: Provided code of sortMain in lab manual
