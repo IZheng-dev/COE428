@@ -1,0 +1,37 @@
+Name: Isaac Zheng
+Student ID: 501263130
+Professor: Dr. Yasaman Ahmadiadli
+TA: Majd Alber
+Course: COE428 P2025 Lab 3
+Submitted: 2025/07/021
+
+~Description of Code~
+Everrything ran perfectly with no issues. Both sorting code ran and sorted the data properly.
+
+~Analysis~
+Insertion Sort:
+Moves [M(n)]:
+Best Case -> If data is already sorted, there is no need to move anything. O(n).
+Average Case -> Yield a time complexity of O(n^2).
+Worst Case -> Array is in reverse order and every element will need to be moved. O(n^2).
+
+Swaps [S(n)]:
+No swaps are used.
+
+Comparisons [C(n)]:
+Best Case -> If array sorted, each element only has to be compared once. O(n).
+Average Case -> Will yield a O(n^2).
+Worst Case -> A reverse array will cause each element to be compared to previous elements. O(n^2).
+
+Merge Sort:
+Moves [M(n)]:
+Best/Average/Worst Case -> Merge sort will share the same time complexity for all cases. This is because every element will be moved in the merging process regardless if the array is already sorted or not. O(nlogn).
+
+Swaps [S(n)]:
+No swaps were used.
+
+Comparisons [C(n)]:
+Best/Average/Worst Case -> Share same time complexity regardless if array is sorted or not because the split arrays will always be compared before merging. O(nlogn).
+
+
+
