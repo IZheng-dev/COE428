@@ -1,6 +1,5 @@
 /*
  * Name: Isaac Zheng
- * Student ID: 501263130
  * Professor: Dr. Yasaman Ahmadiadli
  * TA: Majd Alber
  * Description: State machine code that responds to commands
