@@ -1,6 +1,5 @@
 /*
  * Name: Isaac Zheng
- * Student ID: 501263130
  * Professor: Dr. Yasaman Ahmadiadli
  * TA: Majd Alber
  * Description: Implements the functions addHeap, heapDelete, heapSize and getHeap
@@ -104,3 +103,4 @@ int getHeap(int index){
 	}
 	return heap[index];
 }
+
