@@ -1,6 +1,5 @@
 /*
  * Name: Isaac Zheng
- * Student ID: 501263130
  * Professor: Dr. Yasaman Ahmadiadli
  * TA: Majd Alber
  * Description: Implements the push, pop, and isEmpty functions
@@ -80,3 +79,4 @@ int isEmpty()
 {
   return (top == 0);
 }
+
