@@ -1,5 +1,4 @@
 Name: Isaac Zheng
-Student ID: 501263130
 Professor: Dr. Yasaman Ahmadiadli
 TA: Majd Alber
 Course: COE428 P2025 Lab 2
